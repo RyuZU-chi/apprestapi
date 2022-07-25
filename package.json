@@ -1,0 +1,20 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyuZU-chi/apprestapi.git"
+  },
+  "author": "ryuzu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyuZU-chi/apprestapi/issues"
+  },
+  "homepage": "https://github.com/RyuZU-chi/apprestapi#readme"
+}
