@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/RyuZU-chi/apprestapi/issues"
   },
-  "homepage": "https://github.com/RyuZU-chi/apprestapi#readme"
+  "homepage": "https://github.com/RyuZU-chi/apprestapi#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
 }
